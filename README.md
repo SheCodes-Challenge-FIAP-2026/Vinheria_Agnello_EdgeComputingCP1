@@ -38,7 +38,7 @@ Desenvolver um sistema capaz de:
 - Jumpers.
 
 ### Software
-- [Simulação (Clique Aqui)]()
+- [Simulação (Clique Aqui)](https://wokwi.com/projects/464762105576018945)
 - Arduino IDE.
 
 ---
